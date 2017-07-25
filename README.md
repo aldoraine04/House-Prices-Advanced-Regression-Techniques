@@ -1,7 +1,7 @@
 # House-Prices-Advanced-Regression-Techniques
 This repository contains the solution of the House Prices: Advanced Regression Techniques competition of Kaggle. It will give you 0.11+ score in the leaderboard.
 
-# To know more aboutthecompetition please follow the link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+# To know more about the competition please follow the link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 # Install:
 
