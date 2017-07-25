@@ -14,7 +14,7 @@ I am using Python 3.6.1 for this project. You need to install the following libr
 I have been using Spyder IDE for this project.
 
 # Code:
-The code contains in the ''.
+The code contains in the 'house_prices.py' file.
 
 # Data:
 The training data contains in 'train.csv' file and the testing data contains in the 'train.csv' file and the testing data contains in the 'test.csv' file. I am also adding a file 'Data Description.txt' which contains the explanations of the fields available in the other data files.
