@@ -25,3 +25,5 @@ The training data contains in 'train.csv' file and the testing data contains in 
 
 # Goal:
 The goal for the competition is to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable. 
+
+Best Regards - Nilay.
